@@ -1,5 +1,7 @@
 # Лабораторные работы по курсу Архитектуры компьютера (АК) в ИТМО
 
+- [github-pages](https://e1turin.github.io/itmo-csa/)
+
 ## Краткое описание заданий
 
 1. Презентация о какой-то важной проблеме, которая позволит учащимся лучше
@@ -8,5 +10,5 @@
 2. 3 эссе до 4к символов по предложенным преподавателем видео-докладам.
 3. Программа эмулирующая процессорную архитектуру для исполнения программ на
    каком-то языке, по вариантам от перподавателя.
-   - пример: https://gitlab.se.ifmo.ru/computer-systems/csa-rolling/-/tree/master/src/brainfuck
-     и https://github.com/ryukzak/nitta
+   - пример: [computer-systems/csa-rolling/src/brainfuck](https://gitlab.se.ifmo.ru/computer-systems/csa-rolling/-/tree/master/src/brainfuck)
+   - и [ryukzak/nitta](https://github.com/ryukzak/nitta).
